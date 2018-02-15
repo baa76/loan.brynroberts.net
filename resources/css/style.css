@@ -4,6 +4,16 @@ body {
 }
 
 header {
-    height: 4rem;
+    height: 8rem;
+    background-color: gainsboro;
+    border-bottom: solid 1px grey;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
 
+header img {
+    height: 4.5rem;
+    width: auto;
+    padding-left: 2rem;
 }
