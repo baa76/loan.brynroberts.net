@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    height: 8rem;
+    height: 7rem;
     background-color: gainsboro;
     border-bottom: solid 1px grey;
     display: flex;
