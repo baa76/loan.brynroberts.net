@@ -28,6 +28,13 @@ header img {
     padding: 5rem;
 }
 
+.flex-container .centre {
+    flex-direction: column;
+    /* width: 20rem;
+    padding: 5rem; */
+}
+
+
 /* Fonts */
 
 h1 {
